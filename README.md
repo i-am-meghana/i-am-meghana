@@ -2,11 +2,11 @@
 
 
 
-🌱 I’m currently learning Backend Development in Flask!
+🌱 I’m currently learning Backend Development in Flask (˵ ¬ᴗ¬˵)
 
-💬 I like dabbling with fancy front-ends 
+💬 I like dabbling with fancy front-ends (≖⩊≖)
 
-💬 I am always looking for an opportunity to learn and improve my skills
+💬 I am always looking for an opportunity to learn and improve my skills ;)
 
 💬 Keep up with my learnings on 
 
