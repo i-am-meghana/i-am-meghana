@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+
+
+🌱 I’m currently learning Backend Development in Flask!
+
+💬 I like dabbling with fancy front-ends 
+
+💬 I am always looking for an opportunity to learn and improve my skills
+
+💬 Keep up with my learnings on 
+
+--When I'm not hunching over a keyboard I'm poring over a book-- 
+
 <!--
 **i-am-meghana/i-am-meghana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
