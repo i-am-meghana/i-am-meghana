@@ -5,14 +5,13 @@
 
 🎀 I like dabbling with fancy front-ends (≖⩊≖)
 
-🤓 I am always looking for opportunities to learn and improve my skills ;)
+🤓 I am always looking for opportunities to learn and improve my skills (¬`‸´¬)
 
-✍️ Keep up with my learnings on 
+🧑🏻‍💻 Keep up with my learnings on 
 
---When I'm not hunching over a keyboard I'm poring over a book-- 
+--When I'm not hunching over a keyboard I'm poring over a book-- ( • ᴗ - ) ✧
 
 
-────────────────────────────────୨ৎ──────────────────────────────────
 
 <!--
 **i-am-meghana/i-am-meghana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
